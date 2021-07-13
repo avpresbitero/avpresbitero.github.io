@@ -27,6 +27,14 @@
   }
 }
 
+.avatar {
+  // display: block;
+  border-radius: 1000px;
+  box-sizing: border-box;
+  background-color: #DDD;
+  border: 1px solid #cfd8dc;
+}
+
 .user-details {
   text-align: center;
   margin: 5px auto;
