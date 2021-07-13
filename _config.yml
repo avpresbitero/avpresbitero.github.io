@@ -20,5 +20,5 @@ google-analytics:
 exclude: ['package.json', 'src' , 'node_modules']
 
 # domain: avpresbitero.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://avpresbitero.github.io/avpresbitero.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+url: https://avpresbitero.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /avpresbitero.github.io/      # place folder name if the site is served in a subfolder   
