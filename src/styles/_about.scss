@@ -35,8 +35,9 @@
   border: 1px solid #cfd8dc;
   // width: 500px;
   // height: 500px;
-  @media only screen and (min-width: $cut) {
-    width: 50%;
+  @media only screen {
+    // width: 50%;
+    max-width: 100%;
   }
   float: center;
 }
